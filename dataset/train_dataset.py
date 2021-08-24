@@ -2,7 +2,6 @@
 # _*_ coding:utf-8 _*_
 import glob
 import os
-import random
 
 import cv2
 import torch
